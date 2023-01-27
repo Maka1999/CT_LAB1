@@ -5,9 +5,9 @@ touch names.txt
 ls
 cat>names.txt
 cat names.txt
-touch blames.txt
-cp names.txt blames.txt
-cat blames.txt
+touch Ganesh.txt
+cp names.txt Ganesh.txt
+cat Ganesh.txt
 rm names.txt
-tail -2 blames.txt
-wc -l blames.txt
+tail -2 Ganesh.txt
+wc -l Ganesh.txt
